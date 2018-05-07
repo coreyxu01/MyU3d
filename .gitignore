@@ -1,0 +1,40 @@
+# windows:
+.vs
+.vscode
+*.code-workspace
+
+# mid 
+runApp.py
+
+# fmod:
+*.log
+
+# unity:
+DWWork/Library
+DWWork/Temp
+DWWork/*.sln
+DWWork/*.csproj
+DWWork/*.user
+DWWork/*.sublime-workspace
+DWWork/CreateUI.unity
+DWWork/GameRoot.unity
+DWWork/Assets/FMODStudioCache.asset
+DWWork/Assets/StreamingAssets/build_info.txt.meta
+DWWork/Assets/StreamingAssets/build_info.txt
+DWWork/fmod.log
+DWWork/fmod_editor.log
+DWWork/Assets/XGame/Script/Lua/*.sln
+DWWork/Assets/XGame/Script/Lua/*.sln.meta
+DWWork/Assets/XGame/Script/obj
+DWWork/Assets/XGame/Script/obj.meta
+
+*.DS_Store
+/DWWork/fmod.log
+DWWork/Assets/XGame/Script/Lua/lua_work.code-workspace.meta
+build_info.txt
+/DWWork/Assets/XGame/Scene/Release/GameRoot.unity
+/DWWork/Assets/XGame/Scene/Test/UI/*.unity
+/DWWork/Assets/XGame/Scene/Release/GameRoot.unity
+/DWWork/Assets/XGame/Scene/Test/UI/CreateUI.unity
+/DWWork/Assets/XGame/Scene/Release/GameRoot.unity
+/DWWork/Assets/XGame/Scene/Test/UI/CreateUI.unity
